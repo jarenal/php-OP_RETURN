@@ -4,7 +4,7 @@
     "description": "",
     "keywords": [],
     "homepage": "https://github.com/ArtemKo7v/php-OP_RETURN/new/master",
-    "license": "Unlicense",
+    "license": "MIT",
     "authors": [
         {
             "name": "Coinspark",
@@ -12,6 +12,6 @@
         }
     ],
     "require": {
-        "php": ">=5.3.1",
+        "php": ">=5.3.1"
     }
 }
