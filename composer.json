@@ -1,0 +1,17 @@
+{
+    "name": "ArtemKo7v/php-OP_RETURN",
+    "type": "library",
+    "description": "",
+    "keywords": [],
+    "homepage": "https://github.com/ArtemKo7v/php-OP_RETURN/new/master",
+    "license": "Unlicense",
+    "authors": [
+        {
+            "name": "Coinspark",
+            "homepage": "https://github.com/coinspark/php-OP_RETURN"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.1",
+    }
+}
